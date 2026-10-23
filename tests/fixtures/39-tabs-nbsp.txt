@@ -1,0 +1,1 @@
+Tabs	inside text are fine. Non-breaking spaces stay as they are. Two  spaces get flagged.

@@ -1,0 +1,8 @@
+/tests export-ignore
+/phpunit.xml.dist export-ignore
+/.gitignore export-ignore
+/.gitattributes export-ignore
+* text=auto eol=lf
+tests/fixtures/** -text
+tests/parity/** -text
+/.github export-ignore

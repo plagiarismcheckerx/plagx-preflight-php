@@ -1,0 +1,3 @@
+The value (shown in the table was large. Another [note] here. A stray ] bracket and a {brace.
+a) first item
+b) second item

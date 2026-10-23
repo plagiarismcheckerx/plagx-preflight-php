@@ -1,0 +1,11 @@
+1. Introduction
+
+Text under the introduction goes here. It has two sentences.
+
+2. Literature Review
+
+Some earlier studies exist. They are summarised here.
+
+III. Conclusion
+
+We conclude briefly. That is all.

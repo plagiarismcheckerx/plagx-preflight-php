@@ -1,0 +1,5 @@
+“Open quote on this paragraph continues
+over a line break and closes here.”
+
+(Brackets can also span
+two lines.)

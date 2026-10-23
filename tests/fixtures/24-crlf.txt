@@ -1,0 +1,8 @@
+Introduction
+
+Windows line endings are common.  They use CRLF.
+the second line starts lowercase.
+
+References
+
+Smith, J. (2020). A title. Press.

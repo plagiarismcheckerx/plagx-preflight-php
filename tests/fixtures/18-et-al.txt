@@ -1,0 +1,8 @@
+Jones et al. (2020) agree. Lee et. al. (2019) disagree. Wu et al, (2018) is unclear. Park etal (2017) is wrong too.
+
+References
+
+Jones, A., Kay, B., & Lim, C. (2020). Title one. Journal, 1, 1.
+Lee, D., Moss, E., & Noor, F. (2019). Title two. Journal, 2, 2.
+Wu, G., Xu, H., & Yan, I. (2018). Title three. Journal, 3, 3.
+Park, J., Quinn, K., & Ross, L. (2017). Title four. Journal, 4, 4.

@@ -1,0 +1,14 @@
+Introduction
+
+Online learning has grown quickly over the last decade. Many universities now offer full degrees through digital platforms (Smith, 2020). Students value the flexibility, although some report feeling isolated.
+
+Brown and Lee (2018) found that structured feedback improves completion rates. Their study followed four hundred learners across two years.
+
+Conclusion
+
+Careful course design matters more than the platform itself. Further research should compare different feedback methods.
+
+References
+
+Brown, K., & Lee, M. (2018). Feedback in online courses. Education Review, 12(3), 45-67.
+Smith, J. (2020). Digital degrees. Academic Press.
