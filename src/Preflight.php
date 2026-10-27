@@ -13,7 +13,7 @@ namespace Plagx\Preflight;
  */
 final class Preflight
 {
-    public const VERSION = '0.1.2';
+    public const VERSION = '0.1.3';
 
     /** Check groups. 'passive-voice' is off by default. */
     public const CHECKS = ['length', 'references', 'punctuation', 'grammar', 'passive-voice'];
